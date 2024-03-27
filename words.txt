@@ -1,0 +1,113 @@
+Delete, Sil
+Archive, Arxiv
+Brightness, Parlaqliq
+Build date, Yaradilma tarixi
+Check, Yoxla
+Edit, Duzelis et
+False, Yalnis
+Are you sure to delete it, Silmek isteyirsiniz
+File name, Fayl adi
+Beta, Sinaq
+Button, Duyme
+Back, Geri
+Clear list, Siyahini sil
+Clear data, Melumatlari sil
+Bottom left, Asagi sol kuncde
+Disable, Qeyri aktiv
+End Time, Bitme vaxti
+Exit, Cixis
+Command line, Emr setri
+Added, Elave edilib
+Adjustment, Nizamlama
+Background, Arxa fon
+File browser, Fayl sistemi
+Deactive, Qeyri aktiv
+Details, Detallar
+Audio not found, Musiqi tapilmadi
+Close, Bagla
+Favorites, Secilmisler
+Browser, Fayl sistemi
+Attribute, Xususiyyet
+Choose folder, Qovluq sec
+Folder, Qovluq
+Azerbaijani, Azerbaycan dili
+Click to install, Yukle
+Boost, Gunclendir
+Completing, Tamamlanir
+Enable, Aktiv
+Export, Cixart
+Add device, Cihaz elave et
+Files, Fayllar
+Download, Yukle
+Audio channel, Ses kanali
+Center, Merkez
+File manager, Fayl menecer
+Add Server, Server elave et
+Compatible, Desteklenir
+Default, Standart
+Add shorcut, Qisayol elave et
+Choose, Sec
+Browsering history, Tarixce
+Forward, Ireli
+Downloads, Yuklemeler
+Audio, Ses
+Action for long press, Basili olaraq saxlayin
+Add task, Tapsiriq elave et
+Choose file, Fayl sec
+Deleting, Silinir
+Add, Elave et
+Close others, Hamisini bagla
+Done, Bitti
+Additional subtitle, Uzerine yaz yaz
+Attributes, Atributlar
+File already exists, Fayl artiq movcuddur
+Click, Bas
+Delay, Gecikme
+Battery, Batareya
+Audio cable, Ses cabeli
+Disabled, Baglidir
+Ascending, Artan
+Beta version, Sinaq versia
+Accept, qebul et
+Character, Simvol
+Failed, Emeliyyat ugursuzdur
+Device, Qurgu
+Encoding, Kodlasdirilir
+About, Haqqinda
+Back to, Cevir
+Active, Aktiv
+Background color, Arxa fon rengi
+Are you sure, Eminsiniz
+Bottom, Sona get
+Bold, Qalin
+Balance, Balans
+File, Fayl
+Certificate, Sertifikat
+Category, katiqoria
+AutoStartProgram, Programi avtomatik baslat
+Backup, Ehtiyat nusxe
+Aviable, Movcuddur
+Clean, Temizle
+Clear, Sil
+Auto, Ardicil
+Accessories, Aksesuarlar
+Auto save, Avtomatik saxlama
+Back up, Berpa et
+Empty, Bos
+Close tab, Seifeni bagla
+Finish, Bitdi
+Finising, Tamamlanir
+Down, Asagi
+Bad, Pis
+File details, Fayl detallari
+Error, Xeta
+Data, Melumat
+Change, Deyis
+Date, Tarix
+Apply to all, Hamisi ucun tetbiq et
+File was modified, Fayl artiq deyisdirilib
+Command, Tapsiriq
+Filter, Suzgec
+Backing up, Berpa edilir
+Find, Axtaris
+Bottom right, Asagi sag kuncde
